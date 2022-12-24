@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alex Pan is currently working in the HSBC Group Software Development Center as a senior software engineer. His working direction is financial data warehouse development, financial data security and privacy computing, data cross-border security and compliance. His technology stack includes: Python, SQL, Java. His interests are: mathematical modeling, interpretable machine learning, cryptography (public key cryptography, multi-party secure computing, federated learning).
 {style="text-align: justify;"}
