@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Alex Pan 潘敏
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Alex
+last_name: Pan
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Software Engineer(HSBC)
 
 # Organizations/Affiliations to show in About widget
 organizations:
