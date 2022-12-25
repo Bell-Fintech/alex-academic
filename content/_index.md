@@ -53,13 +53,13 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Senior Software Engineer
+          company: HSBC
           company_url: ''
-          company_logo: org-x
+          company_logo: "http://146.185.138.240/static/images/hsbc_logo.jpg"
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2021-08-05'
+          date_end: ''
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
