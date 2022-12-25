@@ -43,7 +43,7 @@ sections:
         - title: Data Engineer
           company: SRCB
           company_url: ''
-          company_logo: org-gc
+          company_logo: srcb
           location: ShenZhen
           date_start: '2020-07-01'
           date_end: '2021-07-25'
