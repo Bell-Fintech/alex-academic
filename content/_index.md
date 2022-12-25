@@ -57,7 +57,7 @@ sections:
           company: HSBC
           company_url: ''
           company_logo: hsbc
-          location: California
+          location: GuangZhou
           date_start: '2021-08-05'
           date_end: ''
           description: Taught electronic engineering and researched semiconductor physics.
