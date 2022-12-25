@@ -18,7 +18,7 @@ sections:
       items:
         - name: Python
           description: 90%
-          icon: r-project
+          icon: python-project
           icon_pack: fab
         - name: SQL
           description: 100%
