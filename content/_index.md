@@ -56,7 +56,7 @@ sections:
         - title: Senior Software Engineer
           company: HSBC
           company_url: ''
-          company_logo: HSBC HOLDINGS
+          company_logo: hsbc
           location: California
           date_start: '2021-08-05'
           date_end: ''
