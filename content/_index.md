@@ -28,6 +28,22 @@ sections:
           description: 80%
           icon: java
           icon_pack: fab
+        - name: Hive
+          description: 90%
+          icon: hive
+          icon_pack: fab
+        - name: Linux
+          description: 100%
+          icon: linux
+          icon_pack: fab
+        - name: Kaggle
+          description: 100%
+          icon: kaggle
+          icon_pack: fab
+        - name: Git
+          description: 80%
+          icon: git
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
