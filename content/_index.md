@@ -24,10 +24,10 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Machine Learning
+        - name: Java
           description: 80%
-          icon: camera-retro
-          icon_pack: fas
+          icon: java
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
