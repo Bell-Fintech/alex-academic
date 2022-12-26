@@ -44,6 +44,14 @@ sections:
           description: 80%
           icon: git
           icon_pack: fab
+        - name: Docker
+          description: 80%
+          icon: docker
+          icon_pack: fab
+        - name: Github
+          description: 80%
+          icon: github
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
