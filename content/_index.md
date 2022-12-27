@@ -65,13 +65,39 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
 
-        - title: Senior Software Engineer
+      - title: Senior Software Engineer
           company: HSBC
           company_url: ''
           company_logo: hsbc
           location: GuangZhou
           date_start: '2023-08-07'
-          date_end: '2024-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Data Modelling
+              * Data Warehousing
+              * Data Security
+        - title: Data Engineer
+          company: SRCB
+          company_url: ''
+          company_logo: srcb
+          location: ShenZhen
+          date_start: '2020-07-01'
+          date_end: '2021-07-25'
+          description: |2-
+              Responsibilities include:
+
+              * Data Modelling
+              * Data Warehousing
+              * Data Reporting
+        - title: Senior Software Engineer
+          company: HSBC
+          company_url: ''
+          company_logo: hsbc
+          location: GuangZhou
+          date_start: '2021-08-05'
+          date_end: '2022-08-05'
           description: |2-
               Responsibilities include:
 
@@ -92,37 +118,6 @@ sections:
               * Data Modelling
               * Data Warehousing
               * Data Security
-
-          - title: Senior Software Engineer
-          company: HSBC
-          company_url: ''
-          company_logo: hsbc
-          location: GuangZhou
-          date_start: '2021-08-05'
-          date_end: '2022-08-05'
-          description: |2-
-              Responsibilities include:
-
-              * Data Modelling
-              * Data Warehousing
-              * Data Security
-
-        - title: Data Engineer
-          company: SRCB
-          company_url: ''
-          company_logo: srcb
-          location: ShenZhen
-          date_start: '2020-07-01'
-          date_end: '2021-07-25'
-          description: |2-
-              Responsibilities include:
-
-              * Data Modelling
-              * Data Warehousing
-              * Data Reporting
-        
-
-        
 
         
 
