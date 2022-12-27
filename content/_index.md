@@ -90,7 +90,7 @@ sections:
               * Data Modelling
               * Data Warehousing
               * Data Security
-
+        items:
           - title: Senior Software Engineer
           company: HSBC
           company_url: ''
