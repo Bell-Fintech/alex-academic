@@ -105,7 +105,7 @@ sections:
               * Data Warehousing
               * Data Security
 
-          - title: Senior Software Engineer
+        - title: Senior Software Engineer
           company: HSBC
           company_url: ''
           company_logo: hsbc
