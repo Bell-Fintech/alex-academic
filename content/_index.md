@@ -105,7 +105,7 @@ sections:
               * Data Warehousing
               * Data Security
     design:
-      columns: '2'
+      columns: '3'
   
   - block: collection
     id: posts
