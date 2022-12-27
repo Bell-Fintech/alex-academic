@@ -64,20 +64,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-
-      - title: Senior Software Engineer
-          company: HSBC
-          company_url: ''
-          company_logo: hsbc
-          location: GuangZhou
-          date_start: '2023-08-07'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Data Modelling
-              * Data Warehousing
-              * Data Security
         - title: Data Engineer
           company: SRCB
           company_url: ''
@@ -111,7 +97,7 @@ sections:
           company_logo: hsbc
           location: GuangZhou
           date_start: '2022-08-06'
-          date_end: '2022-12-06'
+          date_end: '2023-02-06'
           description: |2-
               Responsibilities include:
 
@@ -119,7 +105,19 @@ sections:
               * Data Warehousing
               * Data Security
 
-        
+        - title: Senior Software Engineer
+          company: HSBC
+          company_url: ''
+          company_logo: hsbc
+          location: GuangZhou
+          date_start: '2023-08-06'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Data Modelling
+              * Data Warehousing
+              * Data Security
 
     design:
       columns: '3'
