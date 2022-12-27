@@ -90,20 +90,7 @@ sections:
               * Data Modelling
               * Data Warehousing
               * Data Security
-        items:
-          - title: Senior Software Engineer
-          company: HSBC
-          company_url: ''
-          company_logo: hsbc
-          location: GuangZhou
-          date_start: '2022-08-05'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
 
-              * Data Modelling
-              * Data Warehousing
-              * Data Security
     design:
       columns: '3'
   
