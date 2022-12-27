@@ -69,8 +69,8 @@ sections:
           company_url: ''
           company_logo: srcb
           location: ShenZhen
-          date_start: '2020-07-01'
-          date_end: '2021-07-25'
+          date_start: '2022-07-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
@@ -83,7 +83,7 @@ sections:
           company_logo: hsbc
           location: GuangZhou
           date_start: '2021-08-05'
-          date_end: '2022-08-05'
+          date_end: '2021-09-05'
           description: |2-
               Responsibilities include:
 
@@ -96,8 +96,8 @@ sections:
           company_url: ''
           company_logo: hsbc
           location: GuangZhou
-          date_start: '2022-08-06'
-          date_end: '2023-02-06'
+          date_start: '2021-01-06'
+          date_end: '2021-02-06'
           description: |2-
               Responsibilities include:
 
@@ -110,8 +110,8 @@ sections:
           company_url: ''
           company_logo: hsbc
           location: GuangZhou
-          date_start: '2023-08-06'
-          date_end: ''
+          date_start: '2020-08-06'
+          date_end: 2020-12-15'
           description: |2-
               Responsibilities include:
 
