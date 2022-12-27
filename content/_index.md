@@ -111,7 +111,7 @@ sections:
           company_logo: hsbc
           location: GuangZhou
           date_start: '2020-01-06'
-          date_end: '2020-12-06'
+          date_end: '2020-10-06'
           description: |2-
               Responsibilities include:
 
