@@ -120,7 +120,7 @@ sections:
               * Data Security
 
     design:
-      columns: '3'
+      columns: '2'
   
   - block: collection
     id: posts
