@@ -125,7 +125,7 @@ sections:
       columns: '2'
   
   - block: collection
-    id: posts
+    id: po
     content:
       title: Recent Posts
       subtitle: ''
