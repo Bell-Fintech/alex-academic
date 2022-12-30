@@ -156,8 +156,9 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      text: |-
+      subtitle: 
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      <br/>
       # Contact (add or remove contact options as necessary)
       email: 740583913@qq.com
       # Automatically link email and phone or display as text?
