@@ -18,7 +18,7 @@ sections:
       items:
         - name: Python
           description: 90%
-          icon: python
+          icon: spss
           icon_pack: fab
         - name: SQL
           description: 100%
