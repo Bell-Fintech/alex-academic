@@ -107,6 +107,7 @@ extensions:
   academicons:
     enable: true
 
+
 # Security
 
 security:
