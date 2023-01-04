@@ -16,6 +16,11 @@ sections:
     content:
       title: Skills
       items:
+
+          icon = "terraform"
+          icon_pack = "icon"
+          name = "Terraform"
+          description = "40%"
         - name: Python
           description: 90%
           icon: spss
