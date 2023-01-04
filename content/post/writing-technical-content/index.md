@@ -8,6 +8,7 @@ image:
 ---
 
 Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+{style="text-align: justify;"}
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 
